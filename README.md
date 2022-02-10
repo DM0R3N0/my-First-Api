@@ -1,5 +1,5 @@
 # My first API (Application Programming Interface)
-## Implementation of my first API using Java, SpringBoot, SpringJpa, H2 daatabase. I used the Postman to make tests.
+## Implementation of my first API using Java, SpringBoot, SpringJpa, H2 database. I used the Postman to make tests.
 ### This API receives a simple request (POST) with an object containing only a name and returns with all the data from the database.
 ### This API uses the H2 memory bank, that is, whenever they are the application of the lost data.
 #
